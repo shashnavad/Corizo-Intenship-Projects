@@ -2,10 +2,13 @@
 
 This repository was made by Shashank Navad
 
-It consists of a file
+It consists of 2 folders
+
+The first contains -
+
 MNIST Digit Classification which classifies the mnist dataset using artificial neural networks or ANNs.
 
-The second is a folder which contains
+The second is a folder which contains -
 
 i) The dataset feature_3_sec.csv which contains data regarding various .wav with an interval of 3 seconds taken from 
 the GTZAN dataset available on kaggle
