@@ -6,7 +6,7 @@ It consists of 2 folders
 
 The first contains -
 
-MNIST Digit Classification which classifies the mnist dataset using artificial neural networks or ANNs.
+MNIST Digit Classification which classifies the mnist dataset using convolutional neural networks or CNNs.
 
 The second is a folder which contains -
 
