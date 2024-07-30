@@ -1,0 +1,15 @@
+.partition {
+	padding: 3rem;
+	background-color: #181818;
+	border: 1px solid #181818;
+	
+	width: calc(80% - 6rem);
+	margin: 1rem 0 0 0;
+}
+
+@media (max-width: 400px) {
+	.partition {
+		padding: 1.5rem;
+		width: calc(90% - 3rem);
+	}
+}

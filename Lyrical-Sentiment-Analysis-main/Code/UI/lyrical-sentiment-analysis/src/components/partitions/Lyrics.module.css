@@ -1,0 +1,40 @@
+.title {
+	font-size: 1.25rem;
+	font-weight: 600;
+}
+
+.list li {
+	margin: 0.3rem 0 0 0;
+}
+
+.input {
+	width: calc(100% - 8px);
+	height: 12rem;
+	font: 1.5rem;
+	letter-spacing: 0.1rem;
+	margin-top: 1rem;
+	resize: vertical;
+	color: #ddd;
+	background-color: #1c1c1c;
+	border: 1px solid #444;
+	border-radius: 5px;
+	outline: none;
+	transition: background-color 0.2s, color 0.2s;
+}
+
+.input:disabled {
+	color: #aaa;
+	background-color: #1a1a1a;
+}
+
+.actions {
+	display: flex;
+	justify-content: center;
+	margin-top: 1rem;
+}
+
+@media (max-width: 400px) {
+	.title {
+		font-size: 1.1rem;
+	}
+}
